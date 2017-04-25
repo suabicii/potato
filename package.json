@@ -1,0 +1,28 @@
+{
+  "name": "kodilla-grunt-example",
+  "version": "1.0.0",
+  "description": "Example grunt project",
+  "main": "index.js",
+  "scripts": {
+    "test": "kodilla-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suabicii/potato.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Michal Slabik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suabicii/potato/issues"
+  },
+  "homepage": "https://github.com/suabicii/potato#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
